@@ -4,7 +4,10 @@
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
-var passwordLength ="";
+var lower = "qwertyuiopasdfghjklzxcvbnm";
+var upper = "QWERTYUIOPASDFGHJKLZXCVBNM";
+var num = "123456789";
+var sym = "!#$%&'()*+,-./:;<=>?@[]^_`{|}~"
 
 var firstPrompt = function() {
   var passwordLength = prompt("How long would you like your password? \r\nMust have a minimum of 8 characters and a max 128 characters");
