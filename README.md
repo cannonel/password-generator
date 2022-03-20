@@ -20,4 +20,3 @@ https://cannonel.github.io/password-generator/
 
 Erika Cannon
 
-### ©️2019 Horiseon Socail Services, Inc
